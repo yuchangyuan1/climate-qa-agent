@@ -179,4 +179,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Climate data from ERA5 reanalysis (Copernicus Climate Data Store)
-- Built for EECS 6895 Course Assignment
+
