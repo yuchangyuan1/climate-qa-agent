@@ -1,0 +1,15 @@
+torch>=2.0.0
+transformers>=4.35.0
+accelerate>=0.24.0
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-core>=0.1.0
+langchain-text-splitters>=0.0.1
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.0
+xarray>=2023.1.0
+netcdf4>=1.6.0
+h5netcdf>=1.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
